@@ -1,4 +1,6 @@
-# A follow of js
-Only of own use
-Many thanks to 
+# Parts Fork of Scripts on Github
+
+For own use only.
+
+Reference to
 + [@NobyDa](https://github.com/NobyDa)
