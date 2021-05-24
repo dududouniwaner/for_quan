@@ -1,4 +1,4 @@
-# Parts Fork of Scripts on Github
+# Favorite Scripts on Github
 
 For own use only.
 
