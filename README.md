@@ -50,5 +50,3 @@ Reference to
 * [@toulanboy](https://github.com/toulanboy/scripts)
 
 * [@lowking](https://github.com/lowking/Scripts)
-
-* [@zZPiglet](https://github.com/zZPiglet)
